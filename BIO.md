@@ -4,10 +4,10 @@
 <div align="center">
 
 ### 서승권
-##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>프론트엔드, 백엔드 모두 정진하고 있습니다.<br>방문해주셔서 감사합니다.
+##### 안녕하세요?<br>열심히 하는 사람 서승권입니다.<br>웹 , 앱 모두 정진하고 있습니다.<br>방문해주셔서 감사합니다.
 
 #
-##### CONTACT📨
+##### 연락📨
 <a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/fe0c86a7-51d5-4daa-9292-333de9b8668e"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
@@ -27,52 +27,43 @@
 
 
 <div align="center" style="width:30%;">
-<h3>정보</h3>
+
+### 소개
+한림대학교 융합소프트웨어학과 학사<br>
+99.09.20
+#
+</div>
+
+
+<div align="center">
+
+### 자격증
+`2종 보통 운전면허`<br>
+`MOS EXCEL` `MOS ACSSES` `MOS POWERPOINT` `MOS WORD`
+</div>
+
+#
+
+<div align="center">
+
+### 기술
+
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/0b919d64-ab69-4ea4-8819-ad7d1a3906c6"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/04b95260-83b0-4e96-bffd-6b47acc975d9"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/7a33b7d4-4e51-4f21-b489-c89210489800"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/999a1609-596a-4139-b7eb-97000ab405da"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/7052ccc3-069a-45c8-9154-69983de3378d"/>
+<br><br>
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/05a8c8f7-bd46-4163-8913-a9902d841528"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/aed48c2c-183d-47a1-85bf-defa3271faf8"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/9755c3cc-576c-4d90-8a1d-898fddeea75a"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/ed6107e5-323a-4754-9231-c8f9628832e6"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="60px" src="https://github.com/seoseuo/RESUME/assets/90320005/47f65240-cc01-4e2d-8619-f3d05e94501b"/>
 </div>
 
 <div align="center">
 
-한림대학교 융합소프트웨어학과 학사<br>
-99.09.20
+### 약력
 
 </div>
-
-
-<div align="right">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=seoseuo&show_icons=true&bg_color=00000000" />
-
-
-<table style="border:0px;">
-            <tr>
-                        <td>
-                                    dd
-                        </td>
-                        <td>
-                                    dd
-                        </td>
-            </tr>
-</table>
-
-            
-### TECH STACK
-<img src="https://img.shields.io/badge/java-007396?style=flat&logo=CoffeeScript&logoColor=white">  
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">  
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat&logo=kotlin&logoColor=black">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-<br>  
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">    
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black">  
-            
-### TOOLS                        
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">  
-<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/notion-ffffff?style=flat&logo=notion&logoColor=black" />
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">           
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">     
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white">            
-</div>
+    
