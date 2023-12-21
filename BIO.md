@@ -8,16 +8,16 @@
 
 #
 ##### 관련
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<a href="https://www.instagram.com/seuo__/">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/fe0c86a7-51d5-4daa-9292-333de9b8668e"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<a href="seoseuo@naver.com">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/18c31b1e-4b82-4451-bddc-583db96891e2"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<a href="">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/83d311a8-4951-4524-a6c4-567ebaa1fdfb"/></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
-<a href="https://chivalrous-saffron-326.notion.site/d75c5abeb41a46519151ae95681db854">
+<a href="https://velog.io/@seuo">
 <img width="50px" src="https://github.com/seoseuo/RESUME/assets/90320005/31189883-10fb-4a82-8468-3d106b95ac6c"/></a>
 
 
@@ -183,18 +183,6 @@
 
 <br>
 
-### 2022 - 2023 `3학년`
-- 정보과학대학 학생회 에이블 체육부장
-- 과 축구동아리 디파이 부회장
-- 학술동아리 노네임 자바프로그래밍I 멘토링 진행
-- 학기우등 4.3
-- 개인 멘토링 자바프로그래밍I 멘토링 진행
-- **한림대학교 대동제 축제준비위원회 ’그_림’ 무대팀원
-- (주) 더 존 비즈온 ICT 스마트 프로젝트 SEOSEUOFOLIO 제작 및 방문 발표
-- 정보과학대학 학생자치기구 선거본부 시즌 선거 본부장
-
-<br>
-  
 ### 2022 - 2023 `3학년`
 - 정보과학대학 학생회 에이블 체육부장
 - 과 축구동아리 디파이 부회장
